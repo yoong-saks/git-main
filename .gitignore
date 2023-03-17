@@ -1,6 +1,0 @@
-# ignore all .class files
-*.class
-
-# specify a folder with slash in the end
-# ignore all files in any directory named temp
-/tistory/
